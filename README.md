@@ -46,7 +46,7 @@ Para executar o projeto, siga os passos abaixo:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO]
+    git clone [URL_DO_REPOSITORIO]
     ```
 2.  **Configuração do Backend (API):**
     *   Navegue até o diretório da API.
